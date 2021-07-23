@@ -1,5 +1,4 @@
-# BarcoTestCaseReview
-
+# Barco TestCase Warranty Info
 > Using **Selenium** combine with **Unittest** to design Test Case for warranty-info on Barco Website
 
 
