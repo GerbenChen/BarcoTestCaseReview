@@ -15,13 +15,12 @@
 - [x] 3. Minimum 6 Characters Required
 - [x] 4. Type Wrong Will Display Error Message
 - [x] 5. Screen Resolution
-- [ ] 6. When I Move Windows Display Correct or Not
-- [x] 7. How Many Response Times About Get Info
-- [ ] 8. How Many Users Can Use at the Same Times
-- [x] 9. Open Page On Different Browser. Ex: Windows/Firefox/MacOS
-- [x] 10. Click Get Info Can Get Information or Not
-- [ ] 11. Click Read Our Warranty Policy Turn to Correct Page or Not
-- [x] 12. If I Type Any Wrong Serial Number Have Possible to Get Correct Infomation or NOT 
+- [x] 6. How Many Response Times About Get Info
+- [ ] 7. How Many Users Can Use at the Same Times
+- [x] 8. Open Page On Different Browser. Ex: Windows/Firefox/MacOS
+- [x] 9. Click Get Info Can Get Information or Not
+- [ ] 10. Click Read Our Warranty Policy Turn to Correct Page or Not
+- [x] 11. If I Type Any Wrong Serial Number Have Possible to Get Correct Infomation or NOT 
 
 ## Command Line
 * python3 <directory> warrantyinfo_testcase.py -v(-v will see more details)
