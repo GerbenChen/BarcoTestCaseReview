@@ -19,7 +19,7 @@
 - [ ] 7. How Many Users Can Use at the Same Times
 - [x] 8. Open Page On Different Browser. Ex: Windows/Firefox/MacOS
 - [x] 9. Click Get Info Can Get Information or Not
-- [ ] 10. Click Read Our Warranty Policy Turn to Correct Page or Not
+- [x] 10. Click Read Our Warranty Policy Turn to Correct Page or Not
 - [x] 11. If I Type Any Wrong Serial Number Have Possible to Get Correct Infomation or NOT 
 
 ## Command Line
