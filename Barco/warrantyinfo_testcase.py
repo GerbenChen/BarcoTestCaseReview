@@ -31,8 +31,8 @@ class BarcoWarrantyInfoTestCase(unittest.TestCase):
             self.driver = webdriver.Edge()
         self.driver.set_window_size(int(self.config['ENVSetting']['Browser_width']), int(self.config['ENVSetting']['Browser_height']))
         self.driver.implicitly_wait(30)
-        #self.verificationErrors = []
-        #self.accept_next_alert = True
+        self.verificationErrors = []
+        self.accept_next_alert = True
 
 
     def tearDown(self):
@@ -153,6 +153,13 @@ class BarcoWarrantyInfoTestCase(unittest.TestCase):
         response_time = responseStart - navigationStart
         print (response_time)
 
+    def test_Click_Read_Our_Warranty_Policy_Turn_to_Correct_Page_or_Not(self):
+        driver = self.driver
+        driver.get(self.config['ENVSetting']['URL'])
+        driver.find_element_by_link_text(self.config['ElementPath']['Policy']).click()
+        windows=driver.window_handles
+        driver.switch_to.window(windows[-1])
+        self.assertEqual(self.config['ResultMessage']['PolicyPageTitleResult'], driver.title, "Click Read Our Warranty Policy Did Not Turn to Policy Page")
 if __name__ == "__main__":
     import xmlrunner
     runner = xmlrunner.XMLTestRunner(output='Barco')
