@@ -5,7 +5,7 @@
 ## Requirement
 * Python 3.x+
 * pip install selenium
-* pip install beautifulsoup4
+* pip install xmlrunner
 
 ## Test Case Structure
 ![warranty (1)](https://user-images.githubusercontent.com/61812113/126738730-46be7845-1971-4bb8-90b1-2af802ab6e23.jpg)
