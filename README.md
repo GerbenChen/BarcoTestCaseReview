@@ -24,11 +24,11 @@
 - [x] 11. If I Type Any Wrong Serial Number Have Possible to Get Correct Infomation or NOT 
 
 ## Command Line
-* python3 <directory> warrantyinfo_testcase.py -v(-v will see more details)
+> python3 <directory> warrantyinfo_testcase.py -v(-v will see more details)
   
 ## DockerFile
-* Please Check and modify DockerFile content
+> Please Check and modify DockerFile content
   
 ## JenkinsFlie
-* Please Check and modify JenkinsFlie content 
+> Please Check and modify JenkinsFlie content 
   
