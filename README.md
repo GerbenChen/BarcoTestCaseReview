@@ -26,9 +26,15 @@
 ## Command Line
 > python3 <directory> warrantyinfo_testcase.py -v(-v will see more details)
   
+# Docker
+*Using Ubuntu 18.04 and Run python on Docker
+  
 ## DockerFile
 > Please Check and modify DockerFile content
   
-## JenkinsFlie
+## Jenkins
+* Using pipeline on Jenkins
+  
+# JenkinsFlie
 > Please Check and modify JenkinsFlie content 
   
