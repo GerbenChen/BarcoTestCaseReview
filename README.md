@@ -14,9 +14,9 @@
 - [x] 2. Special Character
 - [x] 3. Minimum 6 Characters Required
 - [x] 4. Type Wrong Will Display Error Message
-- [ ] 5. Screen Resolution
+- [x] 5. Screen Resolution
 - [ ] 6. When I Move Windows Display Correct or Not
-- [ ] 7. How Many Response Times About Get Info
+- [x] 7. How Many Response Times About Get Info
 - [ ] 8. How Many Users Can Use at the Same Times
 - [x] 9. Open Page On Different Browser. Ex: Windows/Firefox/MacOS
 - [x] 10. Click Get Info Can Get Information or Not
