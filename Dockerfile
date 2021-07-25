@@ -4,7 +4,7 @@ COPY requirements.txt ./requirements.txt
 RUN mkdir -p ./Barco
 COPY Barco ./Barco
 WORKDIR ./Barco
-CMD python3 -m pytest -v --junit-xml /srv/test_results.xml some_module_test.py
+CMD python3 -m pytest -v /Barco/warrantyinfo_testcase_results.xml warrantyinfo_testcase.py
 
 # How to Use
 # docker build -t <image name> -f <Dockerfile path>.
