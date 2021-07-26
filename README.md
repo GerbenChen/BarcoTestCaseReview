@@ -14,7 +14,14 @@
 > Test tools and framework
 >> selenium, unittest
 
+> Test phase
+>> Unit Testing, Integrated Testing, System Testing, Stress Testing
 
+> Test Metrics
+>> Pass condition : No high severity bug.
+
+> Continuous improvement and risk analysis
+>> This project including almost, but we maybe have
 
 
 
