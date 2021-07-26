@@ -21,7 +21,8 @@
 >> Pass condition : No high severity bug.
 
 > Continuous improvement and risk analysis
->> This project including almost, but we maybe have
+>> I think the serial number must limit can not type special character to avoid special situation.
+>> If User's environment is more complicated, maybe will make deviation.
 
 
 
