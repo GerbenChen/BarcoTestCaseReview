@@ -1,6 +1,22 @@
 # Barco TestCase Warranty Info
 > Using **Selenium** combine with **Unittest** to design Test Case for warranty-info on Barco Website
 
+## Test strategy
+> Project data collection
+>> Collect information from database
+
+> Quality goals
+>> Ensure data accuracy, user experience, and performance usage, avoid serious exception.
+
+> Test category
+>> Including Unit testing, Interface testing, Regression testing, Performance Testing, Load testing, Security testing, Compatibility testing, Usability testing.
+
+> Test tools and framework
+>> selenium, unittest
+
+
+
+
 
 ## Requirement
 * Python 3.x+
