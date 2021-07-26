@@ -20,10 +20,13 @@
 > Test Metrics
 >> Pass condition : No high severity bug.
 
-> Continuous improvement and risk analysis
+> Risk analysis
 >> I think the serial number must limit can not type special character to avoid special situation.
 >> If User's environment is more complicated, maybe will make deviation.
 
+> Continuous improvement
+>> In futures, I will create API to test, it can check BackEnd and Database, and how performance about run time, data accuracy and have any omissions from FrontEnd.
+>> I will using Sikuli to test performance about numbers of connections, elements offset on windows, it also can accurated positioning and check image is correct or not.  
 
 
 ## Requirement
